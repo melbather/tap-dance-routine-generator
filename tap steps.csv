@@ -1,0 +1,54 @@
+﻿move_name,num_beats,change_feet,both_feet_simultaneous
+shuffle,2,0,0
+ball change,2,0,0
+hop,1,0,0
+spring,1,1,0
+flap,2,2,0
+double foot wing,3,0,1
+single foot wing,3,0,0
+single foot wing change,3,1,0
+scuff,1,0,0
+stamp,1,1,0
+stomp,1,0,0
+paradiddle,4,2,0
+double paradiddle,6,2,0
+triple paradiddle,8,2,0
+step,1,1,0
+toe beat,1,0,2
+three beat riff,3,0,0
+four beat riff,4,2,0
+five beat riff,5,2,0
+six beat riff,6,2,0
+seven beat riff,7,2,0
+four beat cramp roll,4,0,0
+five beat cramp roll,5,0,0
+four beat around the world cramp roll,4,1,0
+five beat around the world cramp roll,5,1,0
+two feet shunt,1,0,1
+one foot shunt,1,2,0
+five beat paradiddle,5,2,0
+five beat toe paradiddle,5,2,0
+toe heel,2,2,2
+toe knock,1,0,0
+heel toe,2,2,2
+pull back on toes,,,
+pull back with heels,,,
+maxi ford,,,
+buffalo,,,
+brush,,,
+heel cramp roll,,,
+around the world heel cramp roll,,,
+backwards pullback,,,
+toe dig,,,
+heel dig,,,
+backwards slide,,,
+forwards slide,,,
+toe stand,,,
+firecrackle,,,
+riffle,,,
+pickup change,,,
+pickup step,,,
+pickup,,,
+drawback,,,
+double double foot wing,,,
+double single foot wing,,,
